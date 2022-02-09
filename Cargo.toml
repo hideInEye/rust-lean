@@ -5,7 +5,7 @@ edition = "2021"
 repository = "https://github.com/juvenile-bin/rust-lean"
 description = "练习"
 license = "MIT"
-authors = ["juvenile <1050299953@qq.com>"]
+authors = ["juvenile<1050299953@qq.com>"]
 
 include = [
     "**/*.rs",
