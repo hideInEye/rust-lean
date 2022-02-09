@@ -2,9 +2,15 @@
 name = "hello-rust"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/juvenile-bin/rust-lean"
 description = "练习"
-license = "MIT OR Apache-2.0"
-authors = ["juvenile <zhb150952@gmail.com>"]
+license = "MIT"
+authors = ["juvenile <1050299953@qq.com>"]
+
+include = [
+    "**/*.rs",
+    "Cargo.toml",
+]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
